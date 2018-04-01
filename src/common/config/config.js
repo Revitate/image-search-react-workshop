@@ -1,0 +1,3 @@
+export default {
+  accessKey: "03e1781700ba5d9c2f0d19a22d40d52e984e772153149222a3c56f11e308b459"
+};
